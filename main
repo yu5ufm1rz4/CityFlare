@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CityFlare</title>
+    <style>
+        /* Ensure the body takes up the full height of the viewport */
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center; /* Horizontally center the content */
+            align-items: center;    /* Vertically center the content */
+            background-color: #f0f0f0; /* Light background color */
+        }
+
+        /* Style for the centered text */
+        h1 {
+            font-size: 4em;
+            color: #ff4500; /* Bright orange color */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Display the text in the middle -->
+    <h1>CityFlare</h1>
+
+</body>
+</html>
